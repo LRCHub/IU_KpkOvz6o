@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シニガミちゃんは偏食家",
+  "base_artist": "cosMo＠暴走P",
+  "createdAt": "2026-02-16T08:03:53.559995Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シニガミちゃんは偏食家 (feat. 音街ウナ)",
+      "artist": "cosMo@暴走P",
+      "has_synced": false,
+      "path": "select/pl_01_シニガミちゃんは偏食家_(feat._音街ウナ)_cosMo@暴走P.txt"
+    }
+  ]
+}
